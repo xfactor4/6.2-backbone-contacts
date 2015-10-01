@@ -19,3 +19,61 @@ body {
   color: $base-font-color;
   font-family: $base-font-family;
 }
+
+.container {
+  height: 275px;
+  width: 500px;
+  background-color: rgba(60, 148, 139, 1);
+  margin: 10%;
+  margin-left: 30%;
+  border-style:inset;
+ color: white;
+}
+
+.field {
+  margin: 0;
+  height: 270px;
+}
+
+#name {
+  color: black;
+}
+
+#email {
+color: black;
+  margin-top: 30px;
+}
+
+#phone {
+  color: black;
+  margin-top: 30px;
+}
+
+#twitter {
+  color: black;
+  margin-top: 30px;
+}
+
+.Info {
+  margin-top: 20px;
+  margin-left: 150px;
+  background-color: lightgreen;
+  color: black;
+  height: 20%;
+  width: 30%;
+}
+
+
+
+.heading {
+margin-left: 30%;
+padding-top: 10%;
+margin-bottom: -9%;
+}
+
+.container2 {
+  height: 500px;
+  width: 500px;
+  border: 1px solid black;
+  margin-left: 30%;
+}
